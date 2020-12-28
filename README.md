@@ -20,13 +20,14 @@ High school freshman who is studying programming, computer engineering, cyber se
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-
-<a href="https://github.com/wyvernnet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wyvernnet&theme=tokyonight&hide=glsl,python" />
-</a>
-
-<img src="https://github-readme-stats.vercel.app/api?username=wyvernnet&&show_icons=true&theme=tokyonight&line_height=27&v=5" alt="Wÿvêrñ's GitHub Stats" />
-
+<div style="padding: 50px; background-color: #BCC6CC; width: 100px; display: inline-block;">
+  <a href="https://github.com/wyvernnet">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wyvernnet&theme=tokyonight&hide=glsl,python" />
+  </a>
+</div>
+<div style="padding: 50px; background-color: #E5E4E2; display: inline-block;">
+  <img src="https://github-readme-stats.vercel.app/api?username=wyvernnet&&show_icons=true&theme=tokyonight&line_height=27&v=5" alt="Wÿvêrñ's GitHub Stats" />
+</div>
 
 <a href="https://github.com/wyvernnet/WyvernHTTP">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
