@@ -7,7 +7,7 @@
 
 <h3 align="center">A highschool student from South Korea</h3>
 <h3 align="center">Dreaming of being an Cyber Security Expert</h3>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=wyvernnet alt=wyvernnet/></p>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=iIIusi0n alt=iIIusi0n/></p>
 
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
@@ -64,10 +64,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wyvernnet&count_private=true&show_icons=true" height="170px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wyvernnet&layout=compact" height="170px">
+  <img src="https://github-readme-stats.vercel.app/api?username=iIIusi0n&count_private=true&show_icons=true" height="170px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iIIusi0n&layout=compact" height="170px">
 </p>
 
-⭐️ From [iIIusi0n](https://github.com/wyvernnet)
+⭐️ From [iIIusi0n](https://github.com/iIIusi0n)
 
 
