@@ -69,14 +69,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wyvernnet&layout=compact" height="170px">
 </p>
 
-
-<p align="center">
-<a href=https://codepen.io/sachuverma target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg alt="wyvernnet" height="40" width="40" /></a>
-<a href=https://twitter.com/sachuverma_ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="wyvernnet_" height="40" width="40" /></a>
-<a href=https://linkedin.com/in/sachuverma target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="wyvernnet" height="40" width="40" /></a>
-<a href=https://instagram.com/sachuverma_ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="wyvernnet_" height="40" width="40" /></a>
-</p>
-
 ⭐️ From [iIIusi0n](https://github.com/wyvernnet)
 
 
