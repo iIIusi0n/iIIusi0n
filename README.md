@@ -17,7 +17,6 @@
 - 🌱 I’m currently learning ... **React.js and Windows Kernel**
 - 💬 Teach me about ... **Pentesting**
 - 😄 School club ... **A.C.T.**
-- ⚡ Live in ... **Center of My Country**
 - 📫 How to reach me **iIIusi0n@wyvern.pw**
 <h4>Programming Languages: </h4>
 <p align="left">
