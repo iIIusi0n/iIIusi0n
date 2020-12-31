@@ -20,27 +20,26 @@
 - 📫 How to reach me **iIIusi0n@wyvern.pw**
 <h4>Programming Languages: </h4>
 <p align="left">
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/iIIusi0n/iIIusi0n/master/icons/cs.png" alt=csharp width="60" height="60"/>
  <img style="margin: auto;" src="https://raw.githubusercontent.com/iIIusi0n/iIIusi0n/master/icons/cpp.png" alt=cplusplus width="60" height="60"/>
  <img style="margin: auto;" src="https://raw.githubusercontent.com/iIIusi0n/iIIusi0n/master/icons/c.png" alt=c width="60" height="60"/>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/iIIusi0n/iIIusi0n/master/icons/python.png" alt=python width="60" height="60"/>
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/iIIusi0n/iIIusi0n/master/icons/go.png" alt=golang width="60" height="60"/>
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/iIIusi0n/iIIusi0n/master/icons/rust.png" alt=rust width="60" height="60"/>
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/iIIusi0n/iIIusi0n/master/icons/js.png" alt=javascript width="60" height="60"/>
 </p>
 
 <h4>Skills and Tools: </h4>
 <p align="left">
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/iIIusi0n/iIIusi0n/master/icons/html5.png" alt=html5 width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/iIIusi0n/iIIusi0n/master/icons/css3.png" alt=css3 width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/iIIusi0n/iIIusi0n/master/icons/bootstrap.png" alt=bootstrap width="60" height="60"/>
-  	<img style="margin: auto;" src="https://raw.githubusercontent.com/iIIusi0n/iIIusi0n/master/icons/d3.png" alt=d3js width="60" height="60"/>
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/iIIusi0n/iIIusi0n/master/icons/jquery.png" alt=jquery width="60" height="60"/>
-  	<img style="margin: auto;" src="https://raw.githubusercontent.com/iIIusi0n/iIIusi0n/master/icons/js.png" alt=javascript width="60" height="60"/>
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/iIIusi0n/iIIusi0n/master/icons/babel.png" alt=babel width="60" height="60"/>
-  	<img style="margin: auto;" src="https://raw.githubusercontent.com/iIIusi0n/iIIusi0n/master/icons/sass.png" alt=sass width="60" height="60"/>
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/iIIusi0n/iIIusi0n/master/icons/gulp.png" alt=gulp width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/iIIusi0n/iIIusi0n/master/icons/mongo.png" alt=mongodb width="60" height="60"/> 
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/iIIusi0n/iIIusi0n/master/icons/goland.png" alt=goland width="60" height="60"/> 
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/iIIusi0n/iIIusi0n/master/icons/vim.png" alt=vim width="60" height="60"/> 
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/iIIusi0n/iIIusi0n/master/icons/docker.png" alt=docker width="60" height="60"/> 
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/iIIusi0n/iIIusi0n/master/icons/git.png" alt=git width="60" height="60"/> 
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/iIIusi0n/iIIusi0n/master/icons/vsc.png" alt=vsc width="60" height="60"/> 
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/iIIusi0n/iIIusi0n/master/icons/mysql.png" alt=mysql width="60" height="60"/> 
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/iIIusi0n/iIIusi0n/master/icons/psql.png" alt=postgresql width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/iIIusi0n/iIIusi0n/master/icons/php.png" alt=php width="60" height="60"/> 
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/iIIusi0n/iIIusi0n/master/icons/npm.png" alt=npm width="60" height="60"/>
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/iIIusi0n/iIIusi0n/master/icons/node.png" alt=node width="60" height="60"/>
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/iIIusi0n/iIIusi0n/master/icons/react.png" alt=react width="60" height="60"/>
 </p>
 
 <h4>Desktop Environment: </h4>
