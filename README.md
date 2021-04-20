@@ -16,7 +16,6 @@
 - 🔭 I’m currently working on **WyvernHTTP 2**
 - 🌱 I’m currently learning ... **React.js and Windows Kernel**
 - 💬 Teach me about ... **Pentesting**
-- 😄 School club ... **A.C.T.**
 - 📫 How to reach me **iIIusi0n@wyvern.pw**
 <h4>Programming Languages: </h4>
 <p align="left">
